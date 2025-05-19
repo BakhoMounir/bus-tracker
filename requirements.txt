@@ -1,0 +1,4 @@
+Flask
+azure-data-tables
+requests
+python-dotenv
